@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Batmobile](https://user-images.githubusercontent.com/157197484/270000000-batmobile-pixel-art.png)
+![Batmobile](./assets/batmobile.png)
 
 </div>
 
