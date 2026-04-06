@@ -51,19 +51,6 @@
 
 📌 [View Full Experience on LinkedIn](https://www.linkedin.com/in/sumit-roy-a73098309/)
 
----
-
-## 🎭 Notable Missions
-
-🔗 [Explore My Arsenal of Projects](https://github.com/SumitRoy154?tab=repositories)
-
-**Current Quests:**
-- Building intelligent automation systems
-- Crafting scalable full-stack applications
-- Designing data-driven machine learning models
-- Contributing to the open-source community
-
----
 
 ## 📊 The Numbers Don't Lie
 
