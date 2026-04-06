@@ -53,14 +53,6 @@
 
 ---
 
-<div align="center">
-
-![Batmobile](assests/batmobile.png)
-
-</div>
-
----
-
 ## 🦇 Code Philosophy
 
 I believe in:
