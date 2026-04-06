@@ -51,14 +51,11 @@
 
 📌 [View Full Experience on LinkedIn](https://www.linkedin.com/in/sumit-roy-a73098309/)
 
-
-## 📊 The Numbers Don't Lie
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitRoy154&show_icons=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363D&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitRoy154&layout=compact&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363D&hide_border=false)
+![Batmobile](./assets/batmobile.png)
 
 </div>
 
