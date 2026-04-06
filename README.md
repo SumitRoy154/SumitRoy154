@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Batmobile](./assets/batmobile.png)
+![Batmobile](assests/batmobile.png)
 
 </div>
 
