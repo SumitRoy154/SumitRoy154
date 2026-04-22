@@ -1,20 +1,9 @@
 # Welcome 
 
-██████╗  ██████╗ ██╗   ██╗
-██╔══██╗██╔═══██╗╚██╗ ██╔╝
-██████╔╝██║   ██║ ╚████╔╝ 
-██╔══██╗██║   ██║  ╚██╔╝  
-██║  ██║╚██████╔╝   ██║   
-╚═╝  ╚═╝ ╚═════╝    ╚═╝   
+  
 
 ---
-
-## 👨‍💻 The Dark Knight of Code
-
-> *"In the depths of the digital realm, I forge intelligent systems. A vigilante full-stack developer by day, an AI/ML architect by night—merging creativity with machine intelligence to build the future."*
-
 **Full-Stack Developer** | **AI/ML Engineer** | **Data Systems Designer**
-
 ---
 
 ## 🔮 Arsenal of Skills
