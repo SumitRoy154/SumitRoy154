@@ -1,19 +1,33 @@
 # Welcome 
 
-  
 
----
 **Full-Stack Developer** | **AI/ML Engineer** | **Data Systems Designer**
----
 
-## 🔮 Arsenal of Skills
+Innovative and results-driven developer with expertise in full-stack engineering, artificial intelligence, and data systems. Passionate about building scalable, intelligent solutions that bridge technology and business needs.
 
-### **Languages & Frameworks**
+## 🔮 Tech Stack
+
+
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### **AI/ML & Data**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -21,11 +35,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **Databases & Infrastructure**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### **DevOps & Cloud**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 
 ---
 
@@ -42,7 +56,7 @@
 
 ---
 
-## 🦇 Code Philosophy
+## Core Principles
 
 I believe in:
 - 🎯 **Purpose-driven development** - Code with intention
@@ -53,7 +67,7 @@ I believe in:
 
 ---
 
-## 🔗 Connect in the Shadows
+## Connect With Me
 
 <div align="center">
 
@@ -67,7 +81,7 @@ I believe in:
 
 <div align="center">
 
-### 🦇 *"It's not who I am underneath, it's what I do that defines me."* — Building intelligent futures, one line of code at a time.
+### *Building intelligent solutions through innovation and continuous learning.*
 
 **Last Updated:** 2026
 
