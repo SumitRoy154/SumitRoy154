@@ -48,7 +48,7 @@ Innovative and results-driven developer with expertise in full-stack engineering
 
 ---
 
-## 💼 Battle Experience
+## 💼 Work Experience
 
 ### **Full-Stack + AI/ML Developer**
 *Crafting intelligent solutions across the entire tech stack*
